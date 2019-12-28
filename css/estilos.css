@@ -1,0 +1,22 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+header .container{
+  background: #0d2295;
+  color: #fff;
+}
+div .main {
+  background: rgb(148, 201, 207);
+}
+div section aside {
+  background: #f69090;
+}
+.color{
+  background: #0f2ed1;
+}
+footer .container{
+  background: #251be3;
+  color: #fff;
+}
